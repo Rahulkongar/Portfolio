@@ -362,6 +362,12 @@ section .title::after{
     top: 0;
     background: crimson;
 }
+.skills-content .right .c::before{
+    width: 75%;
+}
+.skills-content .right .java::before{
+    width: 70%;
+}
 .skills-content .right .html::before{
     width: 90%;
 }
